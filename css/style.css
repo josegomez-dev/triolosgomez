@@ -104,10 +104,9 @@ hr{
 .navbar-default .navbar-toggle:focus{background: transparent;}
 
 .navbar-brand>img {
-	width: 100%;
+	width: 335px;
 	max-width: 530px;
-	margin-top: -175px;
-	margin-left: -100px;
+	margin-top: -120px;
 }
 
 /* secondary menu */
@@ -453,7 +452,7 @@ hr{
 }
 
 .promo .promo-element p {
-	font-size: 32px;
+	font-size: 22px;
 	line-height: 44px;
 	font-weight: 300;
 	color: #fff;	
