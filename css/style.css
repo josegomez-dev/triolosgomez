@@ -103,10 +103,17 @@ hr{
 .navbar-default .navbar-toggle:hover, 
 .navbar-default .navbar-toggle:focus{background: transparent;}
 
-.navbar-brand>img {
-	width: 335px;
+.navbar-brand > img {
+	width: 240px;
 	max-width: 530px;
-	margin-top: -120px;
+	margin-top: -90px;
+}
+
+
+@media (max-width: 767px){
+	.navbar-brand > img {
+		margin-top: -45px;
+	}
 }
 
 /* secondary menu */
